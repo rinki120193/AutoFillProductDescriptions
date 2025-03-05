@@ -128,5 +128,5 @@ echo $response;
 This project is open-source and licensed under the MIT License.
 
 ## Contact
-For any queries, reach out to [your.email@example.com](mailto:rinki120193@gmail.com).
+For any queries, reach out to [rinki120193@gmail.com](mailto:rinki120193@gmail.com).
 
